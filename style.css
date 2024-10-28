@@ -1,0 +1,33 @@
+.logo{
+    display: inline-block;
+    height: 130px;
+    width: 130px;
+}
+.navbar {
+    display: inline-block;
+    margin-left: 25%;
+}
+.nav-link{
+    font-size: large;
+}
+#mainImage{
+    width: 100%;
+    height: auto;
+}
+
+.product img{
+    width: 250px;
+    height: 200px;
+}
+
+#ourProducts{
+    background: rgba(234,230,244,0.67);
+}
+
+.footer{
+    background: rgba(192,221,251,0.67);
+}
+
+.product{
+    margin-bottom: 20px;
+}
